@@ -233,7 +233,7 @@ class: inverse2
 
   - 아이돌과 함께 출근 (`@hubot <IDOL> 출근`)
 
-![iu](/img/work_with_iu.gif)
+![iu](img/work_with_iu.gif)
 ]
 
 ---
