@@ -15,9 +15,7 @@ class: center, middle
 
   - 덕후회사 `Riiid` 의 개발자
 
-  - `github`, `android`, `node.js`, `angular.js`, `react.js`, `d3.js`
-
-  - brownbreath
+  - `github`, `android`, `node.js`, `angular.js`, `react.js`, `d3.js`, `tmux`  덕후
 
   - 지금은 `ruby on rails` 와 씨름 중 🚀
 ]
@@ -25,7 +23,7 @@ class: center, middle
 ---
 background-image: url(img/renote_back_color_none.jpg)
 .left-column[
-  ## 김경열
+  ## @김경열
   ## 뤼이드??
 ]
 
@@ -57,7 +55,7 @@ class: center, middle
 ]
 
 .right-column[
-깃헙은 자신들의 채팅 서비스(campfire) 에 채팅봇을 띄워놓고 재미난 일들을 시킵니다.
+깃헙은 자신들의 채팅 서비스(campfire) 에 휴봇을 띄워놓고 재미난 일들을 시킵니다.
 
   - 웃긴사진, 고양이 사진 가져오기
 
@@ -77,7 +75,7 @@ class: center, middle
 
 .right-column[
 
-재미를 위해서만 사용하지 않습니다. 깃헙의 전체 인프라 스트럭쳐(코드, 배포, 테스트, 성능측정등) 를 컨트롤 하는 일들을 시킵니다. 이 모든 일들은 채팅창에서 이루어 집니다. 👍
+재미를 위해서만 사용하지 않습니다. 깃헙의 전체 인프라 스트럭쳐(코드, 배포, 테스트, 성능측정 등) 를 컨트롤 하는 일들을 시킵니다. 이 모든 일들은 채팅창에서 이루어 집니다. 👍
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-LxavzqLHj8?start=150&rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
@@ -310,6 +308,10 @@ hubot> hubot power chitacan-pc down
 ```
 
   - `vagrant` 프로젝트 실행 ([hubot-vagrant](https://github.com/chitacan/hubot-vagrant))
+
+```
+hubot> hubot va create android-500 chitacan/aosp-env
+```
 ]
 
 ---
@@ -358,6 +360,13 @@ class: center, middle, inverse3
 모든것을 자동화 합시다!!
 
 ![hubot](img/hubot_no_balloon.png)
+
+---
+class: center, middle
+
+# 참고할 만한 것들
+
+[redribbot](https://github.com/RedRibbon/redribbot), [riiidbot](https://github.com/riiid/riiidbot), [ChatOps](https://www.youtube.com/results?search_query=chatops)
 
 ---
 class: center, middle
