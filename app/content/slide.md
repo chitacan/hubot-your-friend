@@ -308,6 +308,10 @@ hubot> hubot power chitacan-pc down
 ```
 
   - `vagrant` 프로젝트 실행 ([hubot-vagrant](https://github.com/chitacan/hubot-vagrant))
+
+```
+hubot> hubot va create android-500 chitacan/aosp-env
+```
 ]
 
 ---
@@ -356,6 +360,13 @@ class: center, middle, inverse3
 모든것을 자동화 합시다!!
 
 ![hubot](img/hubot_no_balloon.png)
+
+---
+class: center, middle
+
+# 참고할 만한 것들
+
+[redribbot](https://github.com/RedRibbon/redribbot), [riiidbot](https://github.com/riiid/riiidbot), [ChatOps](https://www.youtube.com/results?search_query=chatops)
 
 ---
 class: center, middle
